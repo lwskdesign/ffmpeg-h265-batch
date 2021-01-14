@@ -1,6 +1,7 @@
 # ffmpeg-h265-batch
 
 A simple script to transcode all h.264 files in a folder to h.265 while using the given settings.
+In standard configuration, it will remove all subtitles and only keep german and english audio tracks. The conversion from h.264 to h.265 will be lossless.
 
 ## Usage
 
